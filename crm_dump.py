@@ -1,12 +1,12 @@
 
 #######################################
 #     CRM ENV 78 - DUMP GENERATOR     #
-#     @author - Giuliano Marinella    #
-#             30/12/2018              #
+#     @author - Maxi Carranza         #
+#             30/12/2019              #
 #             version. 1              #
 #######################################
-# UPDATE - 15/06/2019: Add sys module to invoke process with flags parameters.
-# UPDATE - 26/05/2021: Cambia nombre script y path donde se generan los archivos dmp - va_diaz
+# UPDATE - 15/06/2020: Add sys module to invoke process with flags parameters.
+# UPDATE - 26/05/2021: Cambia nombre script y path donde se generan los archivos dmp
 
 import sys
 import os
